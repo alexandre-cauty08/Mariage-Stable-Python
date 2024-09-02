@@ -5,12 +5,12 @@
  </table>
   <table>
  <tr>
-    <td><img src="images/Conception_et_Implantation_d_un_systéme_d_aide_à_la_décision_page-0002.jpg" width=1241 height=1754/></td>
+    <td><img src="images/Conception_et_Implantation_d_un_systéme_d_aide_à_la_décision_page-0002.jpg" width=1400 height=1754/></td>
   </tr>
  </table>
   <table>
  <tr>
-    <td><img src="images/Conception_et_Implantation_d_un_systéme_d_aide_à_la_décision_page-0003.jpg" width=1241 height=1754/></td>
+    <td><img src="images/Conception_et_Implantation_d_un_systéme_d_aide_à_la_décision_page-0003.jpg" width=1500 height=1754/></td>
   </tr>
  </table>
   <table>
